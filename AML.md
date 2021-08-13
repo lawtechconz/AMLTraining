@@ -23,8 +23,10 @@ link: https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.0/animate.min.css
 -->
 
 
-# Buddle Findlay AML/CFT training module 1: Introduction and overview of New Zealand’s AML/CFT regime (covering the international context, the New Zealand legislation and regulations, and an introduction to supervisor guidance, inspection and enforcement powers).
+# Introduction
 
+>
+> Buddle Findlay AML/CFT training module 1: Introduction and overview of New Zealand’s AML/CFT regime (covering the international context, the New Zealand legislation and regulations, and an introduction to supervisor guidance, inspection and enforcement powers).
 > Audience: All fee earners, including partners; all secretarial support staff; all staff with finance and accounts responsibilities.  
 > 
 >
